@@ -55,7 +55,7 @@ I'm a web developer who focuses on front-end development. I have experience in b
 
 <div>
   <p align="center"><img width="100%" height="40%"
-      src="https://activity-graph.herokuapp.com/graph?username=MehrajHossain&theme=dark&background=black"
+      src="https://github-profile-trophy.vercel.app/?username=MehrajHossain&theme=midnight-purple&background=ffffff"
       alt="MehrajHossain" /></p><br><br>
 
   <p align="center"><img width="70%"
@@ -71,7 +71,7 @@ I'm a web developer who focuses on front-end development. I have experience in b
       alt="MehrajHossain" /></p><br>
    
    <p align="center"><img width="100%" height="20%"
-      src="https://github-profile-trophy.vercel.app/?username=MehrajHossain&theme=midnight-purple&background=ffffff"
+      src="https://activity-graph.herokuapp.com/graph?username=MehrajHossain&theme=dark&background=black"
       alt="MehrajHossain" /></p>
 </div>
 <br>
