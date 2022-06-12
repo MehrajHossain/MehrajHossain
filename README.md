@@ -6,8 +6,9 @@ I'm a web developer who focuses on front-end development. I have experience in b
 
 Skills:  REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning MERN Stack 
+   <img src="img/check.gif" height="17px" width="23px"> I enjoy programming and sharing knowledge
+    Most used line of code console.log("hello world") 
+  🌱  I’m currently learning MERN Stack 
 
 
 
