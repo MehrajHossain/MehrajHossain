@@ -4,11 +4,10 @@
 I'm a web developer who focuses on front-end development. I have experience in both front-end and back-end web development. I've worked on a number of web development projects, utilizing various frameworks and technologies. I've created a number of websites using various front-end web development tactics and methodologies.
 <img src="img/line.gif" width="100%">
 
-Skills:  REACT / JS / HTML / CSS
 
-   <img src="img/check.gif" height="17px" width="23px"> I enjoy programming and sharing knowledge
-    Most used line of code console.log("hello world") 
-  🌱  I’m currently learning MERN Stack 
+   - <img src="img/check.gif" height="12px" width="17px"> I enjoy programming and sharing knowledge
+   - <img src="img/check.gif" height="12px" width="17px"> Most used line of code console.log("hello world") 
+   - <img src="img/check.gif" height="12px" width="17px">  I’m currently learning MERN Stack 
 
 
 
@@ -43,7 +42,7 @@ Skills:  REACT / JS / HTML / CSS
 </p>
 
 
-
+<br><br>
 
 
 ### <img src="img/star.gif" height="17px" width="23px"> Things I code with
