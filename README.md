@@ -5,7 +5,7 @@ I'm a web developer who focuses on front-end development. I have experience in b
 <img src="img/line.gif" width="100%">
 
 
-    <img src="img/check.gif" height="12px" width="17px"> I enjoy programming and sharing knowledge
+   &emsp; <img src="img/check.gif" height="12px" width="17px"> I enjoy programming and sharing knowledge
     <img src="img/check.gif" height="12px" width="17px"> Most used line of code console.log("hello world") 
     <img src="img/check.gif" height="12px" width="17px"> I’m currently learning MERN Stack 
 
