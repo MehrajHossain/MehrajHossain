@@ -71,10 +71,11 @@ I'm a web developer who focuses on front-end development. I have experience in b
       alt="MehrajHossain" /></p><br>
    
    <p align="center"><img width="100%" height="20%"
-      src="https://activity-graph.herokuapp.com/graph?username=MehrajHossain&theme=dark&background=black"
+      src="https://activity-graph.herokuapp.com/graph?username=MehrajHossain&theme=dark&background=react-dark"
       alt="MehrajHossain" /></p>
 </div>
 <br>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=71z0l1xj5bmbqt4dgey5688g4&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 
 
