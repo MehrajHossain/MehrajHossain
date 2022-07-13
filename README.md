@@ -63,7 +63,7 @@ I'm a web developer who focuses on front-end development. I have experience in b
       alt="mehrajhossain" /></p>
 
   <p align="center"><img width="70%"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=MehrajHossain&theme=dark&background=000000"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=MehrajHossain&theme=midnight-purple&background=000000"
       alt="MehrajHossain" /></p>
 
   <p align="center"><img width="70%" height="40%"
