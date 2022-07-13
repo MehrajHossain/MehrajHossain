@@ -16,9 +16,6 @@ I'm a web developer who focuses on front-end development. I have experience in b
 <!-- Social link -->
 <h3 align="left"><img src="img/star.gif" height="19px" width="21px"> Connect with me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/mehraj-hossain" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="mehraj-hossain" height="30" width="40" /></a>
   <a href="https://fb.com/mehraj.hossain11" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="mehraj.hossain11" height="30" width="40" /></a>
@@ -28,6 +25,9 @@ I'm a web developer who focuses on front-end development. I have experience in b
   <a href="https://twitter.com/meh_raj_hossain" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="meh_raj_hossain" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mehraj-hossain" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="mehraj-hossain" height="30" width="40" /></a>
   <a href="https://discord.gg/Mehraj#2564" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
       alt="Mehraj#2564" height="30" width="40" /></a>
