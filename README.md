@@ -71,7 +71,7 @@ I'm a web developer who focuses on front-end development. I have experience in b
       alt="MehrajHossain" /></p><br>
    
    <p align="center"><img width="100%" height="20%"
-      src="https://activity-graph.herokuapp.com/graph?username=MehrajHossain&theme=react-dark"
+      src="https://activity-graph.herokuapp.com/graph?username=MehrajHossain&theme=redical"
       alt="MehrajHossain" /></p>
 </div>
 <br>
