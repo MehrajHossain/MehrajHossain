@@ -66,8 +66,9 @@ I'm a web developer who focuses on front-end development. I have experience in b
       src="https://github-readme-activity-graph.cyclic.app/graph?username=MehrajHossain&bg_color=000000&color=9745f5&line=9745f5&point=ffffff&radius=16&area=true&area_color=9745f5"
       alt="MehrajHossain" /></p>
    <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Nice+to+Meet+You...)](https://git.io/typing-svg)
-  </div>
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Nice+to+Meet+You..."
+   </div>
+
 
 </div>
 <br>
