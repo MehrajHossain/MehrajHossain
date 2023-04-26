@@ -74,7 +74,7 @@ I'm a web developer who focuses on front-end development. I have experience in b
       src="https://activity-graph.herokuapp.com/graph?username=MehrajHossain&theme=redical"
       alt="MehrajHossain" /></p>
    <p align="center"><img width="100%" heigth="20%"
-      src="https://github-readme-activity-graph.cyclic.app/graph?username=MehrajHossain&theme=github-compact"/> 
+      [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
  </p>
 </div>
 
