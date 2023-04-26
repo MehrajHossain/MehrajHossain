@@ -1,5 +1,4 @@
 # Hi there <img src="img/pikachu.gif" height="25px" width="35px"> I'm Mehraj Hossain
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Nice+to+Meet+You...)](https://git.io/typing-svg)
 <img src="img/cover.jpg" width="100%">
 <img src="img/line.gif" width="100%">
 I'm a web developer who focuses on front-end development. I have experience in both front-end and back-end web development. I've worked on a number of web development projects, utilizing various frameworks and technologies. I've created a number of websites using various front-end web development tactics and methodologies.
@@ -67,7 +66,7 @@ I'm a web developer who focuses on front-end development. I have experience in b
       src="https://github-readme-activity-graph.cyclic.app/graph?username=MehrajHossain&bg_color=000000&color=9745f5&line=9745f5&point=ffffff&radius=16&area=true&area_color=9745f5"
       alt="MehrajHossain" /></p>
    
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Nice+to+Meet+You...)](https://git.io/typing-svg)
 
 </div>
 <br>
