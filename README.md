@@ -11,7 +11,7 @@ I'm a web developer who focuses on front-end development. I have experience in b
 &emsp; <img src="img/check.gif" height="14px" width="16px"> I’m currently learning MERN Stack <br>
 
 <!-- Social link -->
-<h3 align="left"><img src="img/star.gif" height="19px" width="21px"> <ins>Connect with me</ins></h3>
+<h3 align="left"><img src="img/star.gif" height="19px" width="21px">Connect with me</h3>
 <p align="center">
   <a href="https://fb.com/mehraj.hossain11" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
