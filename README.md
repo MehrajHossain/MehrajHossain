@@ -71,7 +71,7 @@ I'm a web developer who focuses on front-end development. I have experience in b
       alt="MehrajHossain" /></p><br>
    
    <p align="center"><img width="70%" height="20%"
-      src="https://github-readme-activity-graph.cyclic.app/graph?username=MehrajHossain&theme=midnight-purple"
+      src="https://github-readme-activity-graph.cyclic.app/graph?username=MehrajHossain&theme=github-compact&bg_color=000000&color=33FFF6&line=4c9d9e&point=ff0000&area=true&hide_border=true&hide_title=true"
       alt="MehrajHossain" /></p>
 
 </div>
