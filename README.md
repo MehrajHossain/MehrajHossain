@@ -70,7 +70,7 @@ I'm a web developer who focuses on front-end development. I have experience in b
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehrajHossain&theme=midnight-purple&layout=compact&background=000000"
       alt="MehrajHossain" /></p><br>
    <p align="center"><img width="100%" height="40%"
-      src="https://github-readme-activity-graph.cyclic.app/graph?username=MehrajHossain&bg_color=000000&color=9745f5&line=9745f5&point=ffffff&radius=5&area=true&area_color=9745f5"
+      src="https://github-readme-activity-graph.cyclic.app/graph?username=MehrajHossain&bg_color=000000&color=9745f5&line=9745f5&point=ffffff&radius=3&area=true&area_color=9745f5"
       alt="MehrajHossain" /></p>
    
    
@@ -81,4 +81,4 @@ I'm a web developer who focuses on front-end development. I have experience in b
 
 
 
-![Profile views](https://gpvc.arturio.dev/MehrajHossain)  
+![Profile views](https://gpvc.arturio.dev/MehrajHossain?bg_color=000000)  
