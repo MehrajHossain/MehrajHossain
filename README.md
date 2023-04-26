@@ -70,7 +70,7 @@ I'm a web developer who focuses on front-end development. I have experience in b
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehrajHossain&theme=midnight-purple&layout=compact&background=000000"
       alt="MehrajHossain" /></p><br>
    <p align="center"><img width="100%" height="40%"
-      src="https://github-readme-activity-graph.cyclic.app/graph?username=MehrajHossain&theme=merko&custom_title=This%20is%20a%20title&title_color=9745f5&bg_color=000000&color=9745f5&line=9745f5&point=ffffff&area=true&hide_border=true&hide_title=true"
+      src="https://github-readme-activity-graph.cyclic.app/graph?username=MehrajHossain&theme=merko&custom_title=This%20is%20a%20title&title_color=9745f5&bg_color=000000&color=9745f5&line=9745f5&point=ffffff&area=true&hide_border=true&"
       alt="MehrajHossain" /></p>
    
    
