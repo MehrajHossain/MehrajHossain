@@ -74,7 +74,7 @@ I'm a web developer who focuses on front-end development. I have experience in b
       src="https://activity-graph.herokuapp.com/graph?username=MehrajHossain&theme=redical"
       alt="MehrajHossain" /></p>
    <p align="center"><img width="100%" heigth="20%"
-      src="https://eleo-readme-activity-graph.herokuapp.com/graph?username=MehrajHossain&bg_color=ffffff&color=000000&line=4c9d9e&point=ff0000&area=true&hide_border=true&hide_title=true"/> 
+      src="https://github-readme-activity-graph.cyclic.app/graph?username=MehrajHossain&theme=github-compact"/> 
  </p>
 </div>
 
