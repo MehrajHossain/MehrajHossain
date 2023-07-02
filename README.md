@@ -70,5 +70,4 @@ I'm a web developer who focuses on front-end development. I have experience in b
 </div>
 <br>
 
-![Profile views](https://gpvc.arturio.dev/MehrajHossain?&bg_color=9745f5)
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?username=mehrajhossain&style=plastic&color=blueviolet)
