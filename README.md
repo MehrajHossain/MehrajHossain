@@ -63,13 +63,13 @@ I'm a web developer who focuses on front-end development. I have experience in b
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehrajHossain&theme=midnight-purple&layout=compact&background=000000"
       alt="MehrajHossain" /></p><br>
    <p align="center"><img width="100%"
-      src="https://github-readme-activity-graph.cyclic.app/graph?username=MehrajHossain&bg_color=000000&color=9745f5&line=9745f5&point=ffffff&radius=16&area=true&area_color=9745f5"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=MehrajHossain&bg_color=000000&color=9745f5&line=9745f5&point=ffffff&radius=16&area=true&area_color=9745f5"
       alt="MehrajHossain" /></p>
      
   <a align="center" href="https://git.io/typing-svg"><img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&width=435&lines=Nice+to+Meet+You..." alt="Typing SVG" /></a>
 
 </div>
 <br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mehrajhossain&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ![](https://komarev.com/ghpvc/?username=mehrajhossain&style=plastic&color=blueviolet)
