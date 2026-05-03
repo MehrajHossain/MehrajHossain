@@ -36,7 +36,7 @@ I'm a web developer who focuses on front-end development. I have experience in b
       alt="MehrajHossain" /></p><br><br>
 
   <p align="center"><img width="70%"
-      src="https://github-readme-stats.vercel.app/api?username=MehrajHossain&theme=midnight-purple&background=000000&show_icons=true&count_private=true"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=MehrajHossain&theme=midnight-purple&bg_color=000000&show_icons=true&count_private=true"
       alt="mehrajhossain" /></p>
 
   <p align="center"><img width="70%"
