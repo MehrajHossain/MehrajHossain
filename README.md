@@ -11,17 +11,17 @@ I'm a web developer who focuses on front-end development. I have experience in b
 
 <!-- Social link -->
 <h3 align="left"><img src="img/star.gif" height="19px" width="21px">Connect with me</h3>
-<p align="center">
-  <a href="https://fb.com/mehraj.hossain11"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" style="margin:0 8px;"/></a>
-  <a href="https://instagram.com/meh_raj_hossain"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" style="margin:0 8px;"/></a>
-  <a href="https://twitter.com/meh_raj_hossain"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" style="margin:0 8px;"/></a>
-  <a href="https://linkedin.com/in/mehraj-hossain"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" style="margin:0 8px;"/></a>
-  <a href="https://discord.gg/Mehraj#2564"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" style="margin:0 8px;"/></a>
-  <a href="https://github.com/MehrajHossain"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" style="margin:0 8px;"/></a>
-  <a href="https://codepen.io/mehrajhossain"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" style="margin:0 8px;"/></a>
-  <a href="https://stackoverflow.com/users/mehraj-hossain"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" style="margin:0 8px;"/></a>
-</p>
 
+<p align="center">
+  <a href="https://fb.com/mehraj.hossain11"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" style="margin:0 16px;"/></a>
+  <a href="https://instagram.com/meh_raj_hossain"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" style="margin:0 16px;"/></a>
+  <a href="https://twitter.com/meh_raj_hossain"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" style="margin:0 16px;"/></a>
+  <a href="https://linkedin.com/in/mehraj-hossain"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" style="margin:0 16px;"/></a>
+  <a href="https://discord.gg/Mehraj#2564"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" style="margin:0 16px;"/></a>
+  <a href="https://github.com/MehrajHossain"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" style="margin:0 16px;"/></a>
+  <a href="https://codepen.io/mehrajhossain"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" style="margin:0 16px;"/></a>
+  <a href="https://stackoverflow.com/users/mehraj-hossain"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" style="margin:0 16px;"/></a>
+</p>
 <br><br>
 
 ### <img src="img/star.gif" height="19px" width="21px"> Things I code with
