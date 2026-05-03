@@ -44,7 +44,7 @@ I'm a web developer who focuses on front-end development. I have experience in b
       alt="MehrajHossain" /></p>
 
   <p align="center"><img width="70%" height="40%"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehrajHossain&theme=midnight-purple&layout=compact&background=000000"
+      src="https://github-readme-stats-api.vercel.app/api/top-langs/?username=MehrajHossain&layout=compact&theme=midnight-purple&bg_color=000000"
       alt="MehrajHossain" /></p><br>
    <p align="center"><img width="100%"
       src="https://github-readme-activity-graph.vercel.app/graph?username=MehrajHossain&bg_color=000000&color=9745f5&line=9745f5&point=ffffff&radius=16&area=true&area_color=9745f5"
